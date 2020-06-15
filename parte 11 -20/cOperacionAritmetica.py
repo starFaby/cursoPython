@@ -1,0 +1,5 @@
+a = float(3)
+b = float(2)
+c = float(1)
+result = (a**3 * (b**2 - 2*a*c))/(2*b)
+print(f'El resultado es: { result }')
